@@ -1,0 +1,93 @@
+** Drc report for pathfinder.kicad_pcb **
+** Created on 2026-04-16T22:01:10 **
+** Report includes: Errors, Warnings **
+
+** Found 16 DRC violations **
+[shorting_items]: Items shorting two nets (nets Drift Indicator and AK80)
+    Local override; error
+    @(152.2164 mm, 61.2526 mm): Track [Drift Indicator] on F.Cu, length 27.8740 mm
+    @(171.9263 mm, 81.2800 mm): PTH pad 9 [AK80] of U2
+[tracks_crossing]: Tracks crossing
+    Local override; error
+    @(157.7483 mm, 79.8020 mm): Track [CHECKPOINT] on B.Cu, length 42.5686 mm
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+[tracks_crossing]: Tracks crossing
+    Local override; error
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+    @(156.2464 mm, 80.2180 mm): Track [AK40] on B.Cu, length 38.9558 mm
+[shorting_items]: Items shorting two nets (nets GND and Drift Indicator)
+    Local override; error
+    @(171.9263 mm, 75.8825 mm): Track [GND] on F.Cu, length 21.2555 mm
+    @(172.7612 mm, 76.2000 mm): Pad 11 [Drift Indicator] of U2 on F.Cu
+[shorting_items]: Items shorting two nets (nets AK60 and POWER)
+    Local override; error
+    @(171.9263 mm, 83.8200 mm): PTH pad 8 [AK60] of U2
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.0245 mm)
+    Local override; error
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+    @(156.6863 mm, 68.5800 mm): Track [GAS] on B.Cu, length 23.0188 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1175 mm)
+    Local override; error
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+    @(171.9263 mm, 83.8200 mm): Track [AK60] on B.Cu, length 14.6799 mm
+[invalid_outline]: Board has malformed outline (self-intersecting)
+    Local override; error
+    @(138.1125 mm, 54.7687 mm): Segment on Edge.Cuts
+    @(138.1125 mm, 52.3875 mm): Segment on Edge.Cuts
+[invalid_outline]: Board has malformed outline (not a closed shape)
+    Local override; error
+    @(138.1125 mm, 54.7687 mm): Segment on Edge.Cuts
+    @(138.1125 mm, 52.3875 mm): Segment on Edge.Cuts
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(152.2164 mm, 61.2526 mm): Track [Drift Indicator] on F.Cu, length 27.8740 mm
+    @(171.9263 mm, 81.2800 mm): PTH pad 9 [AK80] of U2
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+    @(156.6863 mm, 68.5800 mm): PTH pad 1 [GAS] of U2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(152.2164 mm, 61.2526 mm): Track [Drift Indicator] on F.Cu, length 27.8740 mm
+    @(172.7612 mm, 81.2800 mm): Pad 9 [AK80] of U2 on F.Cu
+[solder_mask_bridge]: Rear solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+    @(171.9263 mm, 83.8200 mm): PTH pad 8 [AK60] of U2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(171.9263 mm, 75.8825 mm): Track [GND] on F.Cu, length 21.2555 mm
+    @(171.9263 mm, 76.2000 mm): PTH pad 11 [Drift Indicator] of U2
+[solder_mask_bridge]: Front solder mask aperture bridges items with different nets
+    Rule: board setup solder mask min width; error
+    @(171.9263 mm, 75.8825 mm): Track [GND] on F.Cu, length 21.2555 mm
+    @(172.7612 mm, 76.2000 mm): Pad 11 [Drift Indicator] of U2 on F.Cu
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; warning
+    @(155.8063 mm, 64.2000 mm): Reference field of U2
+
+** Found 3 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(191.6113 mm, 71.1200 mm): Track [GND] on F.Cu, length 19.6850 mm
+    @(171.9263 mm, 75.8825 mm): Track [GND] on F.Cu, length 21.2555 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(171.9263 mm, 78.7400 mm): PTH pad 10 [POWER] of U2
+    @(171.9263 mm, 83.5025 mm): Track [POWER] on B.Cu, length 33.4460 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(152.2164 mm, 61.2526 mm): Track [Drift Indicator] on F.Cu, length 27.8740 mm
+    @(171.9263 mm, 76.2000 mm): PTH pad 11 [Drift Indicator] of U2
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
