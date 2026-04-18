@@ -1,4 +1,4 @@
-### TrackManiaPathFinder
+# TrackManiaPathFinder
 ## Building a custom wireless TrackMania controller from scratch.
 
 ## Why did I make this project?
