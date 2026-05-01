@@ -11,6 +11,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 ## PICTURES - 
 
+<img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
 
 ![Screenshot 2026-04-17 170528](https://stasis.hackclub-assets.com/images/1776436253239-wztsvc.png)
 
