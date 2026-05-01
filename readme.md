@@ -7,7 +7,6 @@ Although what I didn't see was the infinite potential this had, I started explor
 I wanted to make a controller solely dedicated to a game that is customizable and fully functional with the game. I chose Hollow Knight, but that is for another day, as TrackMania stuck to my heart, and I made this controller.
 
 ## PICTURES - 
-![Untitled design](https://stasis.hackclub-assets.com/images/1776436462742-fg1jn8.png)
 
 
 ![Screenshot 2026-04-17 170528](https://stasis.hackclub-assets.com/images/1776436253239-wztsvc.png)
