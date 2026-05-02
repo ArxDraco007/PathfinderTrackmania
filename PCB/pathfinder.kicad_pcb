@@ -662,16 +662,15 @@
 			(uuid "628ba16a-ffcb-4c34-99ac-4996c98c8414")
 		)
 		(embedded_fonts no)
-		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/XIAO-nRF52840 v15.step"
-			(hide yes)
+		(model "C:/Users/YEP15.DESIGN2/Downloads/seeed-studio-xiao-rp2040-2.snapshot.4/Seeed Studio XIAO RP2040/Seeed Studio XIAO RP2040 v26.step"
 			(offset
-				(xyz -1.778 -6.096 0.381)
+				(xyz -0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz -90 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 		(model "${AMZPATH}/3dmodels/AMz3D.3dshapes/Seeeduino XIAO SAMD21 v4.step"
@@ -1032,6 +1031,17 @@
 			(uuid "3b2cf36d-2f83-4463-9dbc-15a6bcb548f5")
 		)
 		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm.step"
+			(offset
+				(xyz -1.5 -1.5 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -1313,15 +1323,15 @@
 			(uuid "bdef8b1b-4c63-4443-8e3d-82966150eb45")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1605,15 +1615,15 @@
 			(uuid "728e6464-f7d6-4743-a101-7702016d265b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -1897,15 +1907,15 @@
 			(uuid "570193e5-8c10-4b3c-b0bd-2d5e141476f6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2369,15 +2379,15 @@
 			(uuid "3341f3e6-a5ed-4141-91cc-39aee1b492d5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2691,6 +2701,17 @@
 			(uuid "166ef2d1-0a12-4483-ba45-3e0b7326f3c1")
 		)
 		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/LED_THT.3dshapes/LED_D1.8mm_W1.8mm_H2.4mm_Horizontal_O1.27mm_Z1.6mm.step"
+			(offset
+				(xyz -1.5 -1.5 -1.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 90 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -2983,6 +3004,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
+			(offset
+				(xyz -2.5 -5 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -0)
+			)
+		)
 	)
 	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 		(layer "F.Cu")
@@ -3264,15 +3296,15 @@
 			(uuid "ad2e4123-080c-43f9-b3b1-a31ea019d0ad")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -3736,15 +3768,15 @@
 			(uuid "242fd2b1-5072-48bf-a1ed-134b69b90793")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4028,15 +4060,15 @@
 			(uuid "e72a90c8-1371-4668-a4a5-de8461d202a8")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4320,15 +4352,15 @@
 			(uuid "16490920-7d50-4ae0-814b-5cc57b08fefb")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
+		(model "C:/Users/YEP15.DESIGN2/Downloads/redragon-zt02-keyboard-switch-1.snapshot.2/REDragon-MX-ZT02.stp"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -5 0)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
