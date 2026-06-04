@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "../Production/")
 		)
 	)
 	(footprint "mito-keyboard mito-simplified main Seeed Studio XIAO Series Library:XIAO-RP2040-DIP"
