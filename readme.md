@@ -1,10 +1,8 @@
-<img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/112cb99b-191d-4ea4-892b-e2d709747601" /># TrackManiaPathFinder
 ## Building a custom wireless TrackMania controller from scratch.
 
 ## Why did I make this project?
 I started this as a cool starter project to test my understanding of hardware and electronics.
-Although what I didn't see was the infinite potential this had, I started exploring what I could do with my Pathfinder.
-I wanted to make a controller solely dedicated to a game that is customizable and fully functional with the game. I chose Hollow Knight, but that is for another day, as TrackMania stuck to my heart, and I made this controller.
+I wanted to make a controller solely dedicated to a game that is customizable and fully functional with the game. I chose TrackMania, it stuck to my heart, and I made this controller.
 
 ## Why does my project do?
 It has movement and custom buttons, such as ak40, ak60, and ak80, which, when placed in calculated best locations, provide digital steering. On a keyboard, your keys are either "on" (100% steering) or "off" (0%). However, at high speeds or on certain surfaces, 100% steering can cause the car to slide out, lose grip, or slow down. Action Keys act like a limiter or a "virtual steering wheel" that holds the wheels at a precise angle.
