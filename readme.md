@@ -1,4 +1,4 @@
-# TrackManiaPathFinder
+<img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/112cb99b-191d-4ea4-892b-e2d709747601" /># TrackManiaPathFinder
 ## Building a custom wireless TrackMania controller from scratch.
 
 ## Why did I make this project?
@@ -16,6 +16,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 ## PICTURES - 
 
+<img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/57367736-c533-48cc-90c1-3c67d58adbc8" />
 <img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
 
 ![Screenshot 2026-04-17 170528](https://stasis.hackclub-assets.com/images/1776436253239-wztsvc.png)
@@ -25,7 +26,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 ## How do you use it?
 
 Just look at the control buttons and start playing! The WASD keys are on the left of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. 
-Connect it using USB to PC.
+Connect it using a USB to a PC.
 Flash the firmware CircuitPython, copy code.py to the CIRCUITPY drive.
 Game settings needed in TrackMania - enabling Action Keys 2/3/4.
 
