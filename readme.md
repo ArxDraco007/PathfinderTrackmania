@@ -33,8 +33,8 @@ Game settings needed in TrackMania - enabling Action Keys 2/3/4.
 
 | Name               | Purpose                                  | Quantity | Total Cost (USD) | Link | Distributor |
 |:-------------------|:-----------------------------------------|---------:|-----------------:|:-----|:------------|
-| Custom PCB         | The PCB to hold all the components       | 1        | 7.00             | [Link](https://jlcpcb.com) | JLCPCB      |
-| Blank DSA Keycaps  | Keycaps on top of the cherry mx          | 2        | 5.00             | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/?srsltid=AfmBOoqZibFxneEDhpmnPoNkazQzsWt6AGt-IesHtl4qNnuvjoOs5HlY-7k) | meckeys |
+| Custom PCB         | The PCB to hold all the components       | 10  | 7.00             | [Link](https://jlcpcb.com) | JLCPCB      |
+| Blank DSA Keycaps  | Keycaps on top of the cherry mx          | 10       | 5.00             | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank-dsa-keycaps-1u/?srsltid=AfmBOoqZibFxneEDhpmnPoNkazQzsWt6AGt-IesHtl4qNnuvjoOs5HlY-7k) | meckeys |
 | Cherry MX          | The keys for the pathfinder              | 1        | 5.00             | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/?srsltid=AfmBOorZoRj9h-qKXHVTCJLx7y5u4I8F4N70GPuj3bCzxEowvKHzzbSTq7I) | meckeys |
 | SEEED XIAO RP2040  | The main board                           | 1        | 8.00             | [Link](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvZxlmp75q0W2JPaoE08GQ6we&gclid=Cj0KCQjwkYLPBhC3ARIsAIyHi3RSv8Y8s1jQFTQlRZ37opL-OW7Et0RKjRxRr56ogXQ1huokKAxQ5zoaAn2REALw_wcB) | Robocraze |
 | **1.5V LED Bulbs** | Indication of Power and Drift. | 2 | 1 | [Link](https://www.amazon.in/UNIVERSAL-Multicolour-Yellow-Pieces-3v-3-2v/dp/B09RQRP81V/) | Amazon |
