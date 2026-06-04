@@ -9,6 +9,11 @@ I wanted to make a controller solely dedicated to a game that is customizable an
 ## Why does my project do?
 It has movement and custom buttons, such as ak40, ak60, and ak80, which, when placed in calculated best locations, provide digital steering. On a keyboard, your keys are either "on" (100% steering) or "off" (0%). However, at high speeds or on certain surfaces, 100% steering can cause the car to slide out, lose grip, or slow down. Action Keys act like a limiter or a "virtual steering wheel" that holds the wheels at a precise angle.
 
+## Zine - 
+<img width="1304" height="1999" alt="Zine" src="https://github.com/user-attachments/assets/b75f17b2-6f91-47fe-a885-d82f2db59a6e" />
+
+
+
 ## PICTURES - 
 
 <img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
@@ -19,7 +24,10 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 ## How do you use it?
 
-Just look at the control buttons and start playing!
+Just look at the control buttons and start playing! The WASD keys are on the left of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. 
+Connect it using USB to PC.
+Flash the firmware CircuitPython, copy code.py to the CIRCUITPY drive.
+Game settings needed in TrackMania - enabling Action Keys 2/3/4.
 
 ### BOM
 
