@@ -8,8 +8,8 @@ I wanted to make a controller solely dedicated to a game that is customizable an
 It has movement and custom buttons, such as ak40, ak60, and ak80, which, when placed in calculated best locations, provide digital steering. On a keyboard, your keys are either "on" (100% steering) or "off" (0%). However, at high speeds or on certain surfaces, 100% steering can cause the car to slide out, lose grip, or slow down. Action Keys act like a limiter or a "virtual steering wheel" that holds the wheels at a precise angle.
 
 ## Zine - 
-<img width="1304" height="1999" alt="Zine" src="https://github.com/user-attachments/assets/b75f17b2-6f91-47fe-a885-d82f2db59a6e" />
 
+<img width="1304" height="1999" alt="PathfinderZine" src="https://github.com/user-attachments/assets/c0225581-6da1-437d-84fc-f6456e8ba9fc" />
 
 
 ## PICTURES - 
