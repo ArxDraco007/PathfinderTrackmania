@@ -14,6 +14,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 ## PICTURES - 
 
+<img width="1420" height="632" alt="Pathfinder" src="https://github.com/user-attachments/assets/2482630c-d617-4168-be95-47a0f6629cc2" />
 <img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/57367736-c533-48cc-90c1-3c67d58adbc8" />
 <img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
 
