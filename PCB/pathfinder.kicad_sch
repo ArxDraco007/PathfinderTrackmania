@@ -1641,6 +1641,14 @@
 			(embedded_fonts no)
 		)
 	)
+	(no_connect
+		(at 92.71 96.52)
+		(uuid "0d3ab1a2-fd20-43ec-b5ab-9faacf7f72a1")
+	)
+	(no_connect
+		(at 92.71 88.9)
+		(uuid "b138a525-0b93-45f8-8e27-37c401d4323b")
+	)
 	(wire
 		(pts
 			(xy 92.71 92.71) (xy 111.76 92.71)
