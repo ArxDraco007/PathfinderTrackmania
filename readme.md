@@ -17,8 +17,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 <img width="1420" height="632" alt="Pathfinder" src="https://github.com/user-attachments/assets/2482630c-d617-4168-be95-47a0f6629cc2" />
 <img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/57367736-c533-48cc-90c1-3c67d58adbc8" />
 <img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
-
-![Screenshot 2026-04-17 170528](https://stasis.hackclub-assets.com/images/1776436253239-wztsvc.png)
+<img width="1177" height="793" alt="image" src="https://github.com/user-attachments/assets/cae4c7d4-fabd-4b3e-ae47-77840ad251f5" />
 
 ![Screenshot 2026-04-17 170519](https://stasis.hackclub-assets.com/images/1776436252517-myqbl3.png)
 
