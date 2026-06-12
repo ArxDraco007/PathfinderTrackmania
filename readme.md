@@ -18,7 +18,7 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 ## How do you use it?
 
-Just look at the control buttons and start playing! The WASD keys are on the right of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. The AK60 is on the right. The AK40 and AK80 are on the  left.
+Just look at the control buttons and start playing! The WASD keys are on the left of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. The AK60 is on the left. The AK40 and AK80 are on the right.
 Connect it using a USB to a PC.
 Flash the firmware CircuitPython, copy code.py to the CIRCUITPY drive.
 Game settings needed in TrackMania - enabling Action Keys 2/3/4.
