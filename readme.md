@@ -3,27 +3,22 @@
 ## Why did I make this project?
 I started this as a cool starter project to test my understanding of hardware and electronics.
 I wanted to make a controller solely dedicated to a game that is customizable and fully functional with the game. I chose TrackMania, it stuck to my heart, and I made this controller.
+It is a split controller to make it ergonomic and handleable to play.
 
 ## Why does my project do?
 It has movement and custom buttons, such as ak40, ak60, and ak80, which, when placed in calculated best locations, provide digital steering. On a keyboard, your keys are either "on" (100% steering) or "off" (0%). However, at high speeds or on certain surfaces, 100% steering can cause the car to slide out, lose grip, or slow down. Action Keys act like a limiter or a "virtual steering wheel" that holds the wheels at a precise angle.
 
 ## Zine - 
-
-<img width="1304" height="1999" alt="PathfinderZine" src="https://github.com/user-attachments/assets/c0225581-6da1-437d-84fc-f6456e8ba9fc" />
+<img width="1304" height="1999" alt="zine (1)" src="https://github.com/user-attachments/assets/f3bf2800-09c4-43d9-91e2-239b12427a2c" />
 
 
 ## PICTURES - 
-
-<img width="1420" height="632" alt="Pathfinder" src="https://github.com/user-attachments/assets/2482630c-d617-4168-be95-47a0f6629cc2" />
-<img width="1420" height="632" alt="zineimage" src="https://github.com/user-attachments/assets/57367736-c533-48cc-90c1-3c67d58adbc8" />
-<img width="1398" height="926" alt="image" src="https://github.com/user-attachments/assets/b915275c-e5e0-429c-a317-52f7ceb07975" />
-<img width="1177" height="793" alt="image" src="https://github.com/user-attachments/assets/cae4c7d4-fabd-4b3e-ae47-77840ad251f5" />
-
-![Screenshot 2026-04-17 170519](https://stasis.hackclub-assets.com/images/1776436252517-myqbl3.png)
+<img width="1315" height="854" alt="image" src="https://github.com/user-attachments/assets/09cdf43a-3613-40a5-accf-2165d3091dbe" />
+<img width="1153" height="458" alt="image" src="https://github.com/user-attachments/assets/851f627e-cd24-4f55-9178-d86fa35b2d48" />
 
 ## How do you use it?
 
-Just look at the control buttons and start playing! The WASD keys are on the left of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. 
+Just look at the control buttons and start playing! The WASD keys are on the right of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. The AK60 is on the right. The AK40 and AK80 are on the  left.
 Connect it using a USB to a PC.
 Flash the firmware CircuitPython, copy code.py to the CIRCUITPY drive.
 Game settings needed in TrackMania - enabling Action Keys 2/3/4.
