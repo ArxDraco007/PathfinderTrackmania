@@ -9,7 +9,7 @@ It is a split controller to make it ergonomic and handleable to play.
 It has movement and custom buttons, such as ak40, ak60, and ak80, which, when placed in calculated best locations, provide digital steering. On a keyboard, your keys are either "on" (100% steering) or "off" (0%). However, at high speeds or on certain surfaces, 100% steering can cause the car to slide out, lose grip, or slow down. Action Keys act like a limiter or a "virtual steering wheel" that holds the wheels at a precise angle.
 
 ## Zine - 
-<img width="1304" height="1999" alt="zine (1)" src="https://github.com/user-attachments/assets/f3bf2800-09c4-43d9-91e2-239b12427a2c" />
+<img width="1304" height="1999" alt="zine (2)" src="https://github.com/user-attachments/assets/56f66a9f-02df-4a47-8674-7f2fb01d180b" />
 
 
 ## PICTURES - 
