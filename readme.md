@@ -13,15 +13,22 @@ It has movement and custom buttons, such as ak40, ak60, and ak80, which, when pl
 
 
 ## PICTURES - 
+<img width="1920" height="1080" alt="pathfindeee" src="https://github.com/user-attachments/assets/08fa5363-d715-465a-b30a-daae2fbbc022" />
+<img width="1920" height="1080" alt="SnowPathfinder" src="https://github.com/user-attachments/assets/5eaaef70-4eaf-45d7-bb09-c7c1fc4fa58b" />
+<img width="1920" height="1080" alt="DesertPathfinder" src="https://github.com/user-attachments/assets/c67acf3f-4165-4ea0-880e-91bb5830ed3b" />
 <img width="1315" height="854" alt="image" src="https://github.com/user-attachments/assets/09cdf43a-3613-40a5-accf-2165d3091dbe" />
 <img width="1153" height="458" alt="image" src="https://github.com/user-attachments/assets/851f627e-cd24-4f55-9178-d86fa35b2d48" />
 
-## How do you use it?
+## Assembly Instructions?
+Heat-press the brass inserts into the case and glue the magnets into place.
+Screw the stabilizers into the PCB and mount the sliding switch to the case.
+Solder the diodes and header pins to the Seeeduino and PCB.
+Click switches into the plate, screw the plate to the case, and add keycaps.
+Flash your ZMK firmware to the Seeeduino.
+Repeat for the second half, pair them, and test your work.
 
+## How to use it?
 Just look at the control buttons and start playing! The WASD keys are on the left of the board, which correspond to the gas, left, brake, and right. The checkpoint and the reset buttons are below, and the AK40, AK60, and AK80 buttons, which control the full speed to 40, 60, and 80 percent. The AK60 is on the left. The AK40 and AK80 are on the right.
-Connect it using a USB to a PC.
-Flash the firmware CircuitPython, copy code.py to the CIRCUITPY drive.
-Game settings needed in TrackMania - enabling Action Keys 2/3/4.
 
 ### BOM
 
@@ -32,4 +39,5 @@ Game settings needed in TrackMania - enabling Action Keys 2/3/4.
 | Cherry MX          | The keys for the pathfinder              | 1        | 5.00             | [Link](https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/cherry-mx-rgb-switch/?srsltid=AfmBOorZoRj9h-qKXHVTCJLx7y5u4I8F4N70GPuj3bCzxEowvKHzzbSTq7I) | meckeys |
 | SEEED XIAO RP2040  | The main board                           | 1        | 8.00             | [Link](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvZxlmp75q0W2JPaoE08GQ6we&gclid=Cj0KCQjwkYLPBhC3ARIsAIyHi3RSv8Y8s1jQFTQlRZ37opL-OW7Et0RKjRxRr56ogXQ1huokKAxQ5zoaAn2REALw_wcB) | Robocraze |
 | **1.5V LED Bulbs** | Indication of Power and Drift. | 2 | 1 | [Link](https://www.amazon.in/UNIVERSAL-Multicolour-Yellow-Pieces-3v-3-2v/dp/B09RQRP81V/) | Amazon |
-| Total | | | 26.00 | | |
+| M3x4 mm Brass Heat Set Threaded Round Insert Nut (25Pcs) | Metal screw threads to hold the plastic | 1 Pack | $4.00 | [View Product](https://robu.in/product/m3-x-4-mm-brass-heat-set-knurl-threaded-round-insert-nut-25-pcs/) | Robu |
+| Total | | | 30.00 | | |
